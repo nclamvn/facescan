@@ -1,10 +1,10 @@
 {
-  "name": "react_repo",
+  "name": "facescan",
   "private": true,
   "version": "0.0.0",
-+ "engines": {
-+   "node": "18.x"
-+ },
+  "engines": {
+   "node": "18.x"
+ },
   "type": "module",
   "scripts": {
     "dev": "vite",
